@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 ## Hi there, I'm Jakaphat 👋
 
 <p>
-  I'm Jakaphat <br>
+  I am currently learning to become a web developer, with a focus on both front-end and back-end technologies.
+  I am gaining experience with HTML, CSS, JavaScript, React, Node.js, Express, and working with databases like MongoDB and SQL.
+  <br>
   
   - 🌏 I’m based in Khonkaen, Thailand <br>
   - 📝 I'm currently learning Go <br>
   - ⚡ In my free time I ... <br>
   
 </p>
-
-
 
 ## Language and Tools:
 
@@ -65,13 +65,13 @@ Here are some ideas to get you started:
 ## Contact  Me:
 
 <div align="left">
-  <a href='https://www.youtube.com' target="_blank">
+  <a href='https://www.linkedin.com/in/jakaphat000sptt' target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="26" alt="linkedin logo"  />
   </a>  
   <a href='mailto:jakaphat000sptt@gmail.com' target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="26" alt="gmail logo"  />
   </a>
-  <a href='http://m.me/jakaphat.singchoo' target="_blank">
+  <a href='https://www.facebook.com/jakaphat.singchoo' target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="26" alt="facebook logo"  />
   </a>
 
