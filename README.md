@@ -27,9 +27,8 @@ Here are some ideas to get you started:
   I am gaining experience with HTML, CSS, JavaScript, React, Node.js, Express, and working with databases like MongoDB and SQL.
   <br>
   
-  - 🌏 I’m based in Khonkaen, Thailand <br>
-  - 📝 I'm currently learning Go <br>
-  - ⚡ In my free time I ... <br>
+  - I’m based in Khonkaen, Thailand <br>
+  - I'm currently learning Go <br>
   
 </p>
 
