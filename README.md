@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <br>
   
   - I’m based in Khonkaen, Thailand <br>
-  - I'm currently learning Go <br>
+  - I'm currently learning Go and Docker <br>
   
 </p>
 
